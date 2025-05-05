@@ -8,7 +8,7 @@
    - Si el producto ya existe en el carrito, solo se aumenta la cantidad.
 
 3. Eliminar productos:
-   - El usuario puede eliminar un producto específico del carrito.
+   - El usuario puede eliminar uno o varios productos (específico) del carrito.
 
 4. Actualizar cantidad:
    - El usuario puede aumentar o disminuir la cantidad de un producto.

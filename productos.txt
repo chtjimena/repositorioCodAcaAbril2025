@@ -1,0 +1,4 @@
+1. Cantidad
+2. Costo
+3. Descripcion
+4. Aplica descuento? (Y/N)
