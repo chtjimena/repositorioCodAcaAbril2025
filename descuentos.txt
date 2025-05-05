@@ -1,0 +1,3 @@
+Descuento por producto
+1. Se dara un porcentaje de descuento a cada producto
+2. Se multiplicara el costo del producto por el valor del descuento
